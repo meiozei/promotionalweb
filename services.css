@@ -1,0 +1,39 @@
+#services h1 {
+    color: whitesmoke;
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+    padding-top: 2%;
+}
+
+#services h2 {
+    color: whitesmoke;
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+}
+
+.container {
+    background-color: #1F1F1F;
+    margin: 5%;
+    padding: 5%;
+}
+
+#training{
+    background: url('training.jpg') no-repeat fixed top;
+    background-size: 100%;
+    padding: 20%;
+}
+
+.column {
+    width: 33.33%;
+    float: left;
+    padding: 5px;
+}
+
+.column img {
+    width: 100%;
+}
+
+.row {
+    display: flex;
+}
+

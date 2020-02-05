@@ -1,0 +1,36 @@
+#about {
+    background: url('gamedev.jpg') no-repeat fixed top;
+    background-size: 100%;
+    padding: 10%;
+}
+
+#about h1 {
+    font-family: 'Cabin', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 10vh;
+}
+
+
+#about1 p {
+    font-family: 'Cabin', sans-serif;
+    color: whitesmoke;
+    text-align: left;
+    margin-left: 2%;
+    font-size: 3.5vh;
+    padding-top: 2%;
+}
+
+#about1 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#about1 h1 {
+    font-family: 'Cabin', sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 4vh;
+}
+
